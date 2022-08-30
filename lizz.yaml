@@ -1,0 +1,5 @@
+name: domain-name
+values:
+  userValues:
+    - name: value
+      required: true
